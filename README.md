@@ -28,8 +28,11 @@ Piechart-% and Propotion Distribution
 
 Comparision:
 BarChart-Less than 5 products(if label name are smaller)
+
 Column Chart-more than 5 products (big names)
+
 ClusterChart-(product or year wise)less than 3 bar 
+
 Stacked Chart-overall value of the year or product wise
 
 Trend patterns:
